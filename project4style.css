@@ -1,0 +1,51 @@
+body {
+  background-image: url("img/project\ back\ gradient-03.png");
+  background-size: cover;       
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+h1, h2, h3, h5{
+    font-family: "Playfair", serif;
+    color: 3E3E3E;
+}
+.custom-nav-wrapper {
+  padding-left: 140px;
+  padding-right: 140px;
+}
+
+.logo{
+    font-family: "Playfair", serif;
+}
+
+.custom-projectgrid-wrapper{
+    padding-left: 140px;
+  padding-right: 140px;
+}
+
+.glass-card {
+    border-radius: 25px;
+    padding: 30px;
+}
+
+.rounded-img {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    border-radius: 25px;
+    object-fit: cover;
+}
+.custom-img1-wrapper{
+    padding-left: 240px;
+  padding-right: 240px;
+  height: 300px;
+}
+
+.product-card-img {
+  width: 100%;            
+  border-radius: 30px;    
+  object-fit: cover;      
+  display: block;
+}
